@@ -49,4 +49,4 @@ after complete setup
 
 **Enjoy using the Weather App!**
 
-Visit--> https://weather-app-par8-9rp98tiz4-niteshcodes.vercel.app/
+Visit--> https://weather-react-app-1u9r.vercel.app/
