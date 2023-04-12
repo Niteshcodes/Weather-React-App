@@ -1,4 +1,6 @@
 import React from 'react';
+import { useState,useEffect } from 'react';
+import {WeatherForcast} from '../services/Service'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { config } from "@fortawesome/fontawesome-svg-core";
 import { faClock } from '@fortawesome/free-solid-svg-icons';
