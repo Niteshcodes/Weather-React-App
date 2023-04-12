@@ -1,0 +1,36 @@
+.main{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  text-align: center;
+  color: green;
+  font-size: 5vw;
+  font-weight: bold;
+}
+p{
+  margin: 10px auto;
+  font-size: 3vw;
+}
+.buttons button{
+  
+  margin: 9px 6vw;
+    width: 8vw;
+    height: 12vh;
+    color: red;
+    background: transparent;
+    border-radius: 8px;
+    font-size: 25px;
+    
+    
+}
+button:hover{
+  cursor: pointer;
+}
+.About{
+  font-size: 1.2vw;
+  color: white;
+  text-align: left;
+  
+}
